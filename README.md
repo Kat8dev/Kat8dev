@@ -12,7 +12,7 @@
 ### About Me :
 - 💬 Ask me about  **HTML, CSS, JAVASCRIPT, REACT**
 - 🥅 My next goal node.js 
-- :mailbox_closed: How to reach me "jabakhidzekhatuna8@gmail.com"
+- How to reach me https://khatdev.netlify.app/
 <div>
   <h3>:hammer: Lenguages and Tools :</h3>
   <div>
