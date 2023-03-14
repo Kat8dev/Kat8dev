@@ -3,9 +3,6 @@
   <h1>👋 Hi, I’m @Khatuna Jabakhidze</h1>
   <h3>I’m Frontend Developer based in Barcelona. I’m passionate about finding creative solutions for everyday problems, enhancing user interaction and continuous learning.</h3>
   <div>
-    <a href="https://www.instagram.com/khatukhat/">
-    <img src="https://img.shields.io/badge/-Instagram-%23833AB4" alt="Instagram badget"/>
-    </a>
     <a href="https://www.linkedin.com/in/khatuna-jabakhidze-1a186322a/">
       <img src="https://img.shields.io/badge/-LinkedIn-blue" alt="linledin badge"/>
     </a>
