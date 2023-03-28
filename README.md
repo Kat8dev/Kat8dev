@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250px"/>
-  <h1>👋 Hi, I’m @Khatuna Jabakhidze</h1>
+  <h1>👋 Hi, I’m @Katy</h1>
   <h3>I’m Frontend Developer based in Barcelona. I’m passionate about finding creative solutions for everyday problems, enhancing user interaction and continuous learning.</h3>
   <div>
     <a href="https://www.linkedin.com/in/khatuna-jabakhidze-1a186322a/">
