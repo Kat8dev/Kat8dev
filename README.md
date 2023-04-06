@@ -11,7 +11,6 @@
 
 ### About Me :
 - 💬 Ask me about  **HTML, CSS, JAVASCRIPT, REACT**
-- 🥅 My next goal node.js 
 - How to reach me https://khatdev.netlify.app/
 <div>
   <h3>:hammer: Lenguages and Tools :</h3>
@@ -25,6 +24,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40"/>
   </div>
 </div>
 
