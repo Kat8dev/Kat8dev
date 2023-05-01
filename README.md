@@ -25,7 +25,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/>ç
+     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
   </div>
 </div>
 
