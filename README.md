@@ -11,7 +11,6 @@
 
 ### About Me :
 - 💬 Ask me about  **HTML, CSS, JAVASCRIPT, REACT**
-- How to reach me https://kat8dev.netlify.app/
 <div>
   <h3>:hammer: Lenguages and Tools :</h3>
   <div>
