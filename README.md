@@ -10,7 +10,7 @@
 </div>
 
 ### About Me :
-- 💬 Ask me about  **HTML, CSS, JAVASCRIPT, REACT**
+- 💬 Ask me about  **HTML, CSS, JAVASCRIPT, REACT, ANGULAR, PYTHON, DJANGO, SQL, NODEJS, NEXTJS**
 <div>
   <h3>:hammer: Lenguages and Tools :</h3>
   <div>
