@@ -3,6 +3,7 @@
   <h1>👋 Hi, I’m @Katy</h1>
   <h2>I’m Frontend Developer based in Barcelona.</h2>
   <h3>My website =>  https://www.nefixapp.com/</h3>
+  <h3>My free Javascript Course => www.nefixapp.com/courses-javascript/js-introduction</h3>
   <div>
     <a href="https://www.linkedin.com/in/khatuna-jabakhidze-1a186322a/">
       <img src="https://img.shields.io/badge/-LinkedIn-blue" alt="linledin badge"/>
